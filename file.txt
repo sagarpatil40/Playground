@@ -9,5 +9,5 @@ Somebody else added one feature
 Hello
 This is F6 branch commit
 
-Develop has gone ahead
-This is just another change
+Develop has gone ahead , This line is changed, Amending this changes
+Amending commit: Add message : Done deal
