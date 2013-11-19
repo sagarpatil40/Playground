@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.whattheheckisthis.factorypattern;
+
+/**
+ * @author sagarpatil
+ *
+ */
+public class Civic extends Car {
+
+	/* (non-Javadoc)
+	 * @see com.whattheheckisthis.factorypattern.Car#construct()
+	 */
+	@Override
+	public void construct() {
+		System.out.println("This is where Civic will be constructed");
+
+	}
+
+}

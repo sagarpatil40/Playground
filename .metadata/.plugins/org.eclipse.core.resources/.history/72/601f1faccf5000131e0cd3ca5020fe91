@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.whattheheckisthis.factorypattern;
+
+/**
+ * @author sagarpatil
+ *
+ */
+public enum CarType {
+
+	
+	
+	String type;
+
+	public String getType() {
+		return type;
+	}
+	
+	
+}

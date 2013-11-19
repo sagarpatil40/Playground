@@ -1,0 +1,11 @@
+package com.whattheheckisthis.factorypattern;
+
+public class Camry extends Car {
+
+	@Override
+	public void construct() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

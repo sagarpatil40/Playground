@@ -1,0 +1,16 @@
+package com.whattheheckisthis.factorypattern;
+
+public class TestClass {
+
+	public enum CarType{
+		 CAMRY(Camry.class), CIVIC(Civic.class);
+		 
+		 Class c;
+		 private CarType(Class c){
+			`
+		 }
+		
+	}
+	
+	
+}

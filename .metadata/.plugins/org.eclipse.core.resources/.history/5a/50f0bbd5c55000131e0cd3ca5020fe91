@@ -1,0 +1,10 @@
+package com.whattheheckisthis.factorypattern;
+
+public class TestClass {
+
+	public enum(){
+		
+	}
+	
+	
+}

@@ -43,3 +43,13 @@
 .metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/2.9.2.201205070117-RELEASE/target/org.springframework.osgi.extensions.annotation-1.2.1.jar
 .metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/2.9.2.201205070117-RELEASE/target/org.springframework.osgi.io-1.2.1.jar
 .metadata/version.ini
+.metadata/.lock
+.metadata/.log
+.metadata/.mylyn/repositories.xml.zip
+.metadata/.plugins/com.atlassian.connector.eclipse.jira.core/serverCache/repositoryConfigurations
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+.metadata/.plugins/org.eclipse.core.resources/.root/1.tree
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+.metadata/.plugins/org.eclipse.core.runtime/.settings/com.atlassian.connector.eclipse.jira.ui.prefs

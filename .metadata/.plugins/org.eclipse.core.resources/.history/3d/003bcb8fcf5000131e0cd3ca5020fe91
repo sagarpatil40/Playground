@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package com.whattheheckisthis.factorypattern;
+
+/**
+ * @author sagarpatil
+ *
+ */
+public class CarType {
+
+	
+	public Car getCar(){
+		return new c();
+	}
+	
+}

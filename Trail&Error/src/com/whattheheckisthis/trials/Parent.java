@@ -12,6 +12,9 @@ public  abstract class Parent {
 	 this.value = value;
  }
  
+ public void process(){
+	 
+ }
  
 	
 }
